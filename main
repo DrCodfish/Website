@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Welcome to My Portfolio</title>
+  <style>
+    body { font-family: Arial, sans-serif; text-align: center; margin: 40px; }
+    h1 { color: #4CAF50; }
+    a { color: #2196F3; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <h1>Hello, I'm [Your Name] 👋</h1>
+  <p>Welcome to my personal website where I showcase my projects and blogs.</p>
+  <a href="https://github.com/[yourusername]">Check out my GitHub</a>
+</body>
+</html>
